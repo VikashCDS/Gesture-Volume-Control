@@ -7,8 +7,8 @@ The system detects hand gestures through a webcam and controls the system volume
 ---
 
 # 🎥 Demo Video
-<video src="https://github.com/VikashCDS/Gesture-Volume-Control/blob/main/Screen%20Recording%202026-05-23%20103952.mp4" controls width="800"></video>
 
+https://github.com/user-attachments/assets/e3f6baf6-6a5d-4f12-8542-c9834213da5a
 
 ---
 
